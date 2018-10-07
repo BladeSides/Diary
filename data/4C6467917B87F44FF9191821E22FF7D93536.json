@@ -1,0 +1,23 @@
+{
+    "uid": "4C6467917B87F44FF9191821E22FF7D93536",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Alex Blue",
+        "type": "data_record",
+        "category": "characterExpressions",
+        "isFolder": true,
+        "parentId": "ROOT",
+        "data": {
+            "name": "Alex Blue",
+            "isFolder": true
+        },
+        "order": 1
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}

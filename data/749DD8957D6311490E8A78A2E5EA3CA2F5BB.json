@@ -1,0 +1,42 @@
+{
+    "uid": "749DD8957D6311490E8A78A2E5EA3CA2F5BB",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "CorneliaUniform_CloseUp",
+        "type": "data_record",
+        "category": "characterExpressions",
+        "id": "749DD8957D6311490E8A78A2E5EA3CA2F5BB",
+        "isFolder": false,
+        "parentId": "679F708D7BCE514EF5889CD1D401C7C685A7",
+        "data": {
+            "idleTime": {
+                "start": 0,
+                "end": 0
+            },
+            "name": "CorneliaUniform_CloseUp",
+            "idleSpeed": 100,
+            "idle": [
+                {
+                    "resource": {
+                        "name": "CorneliaUniform_CloseUp",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": null
+                    }
+                }
+            ],
+            "talkingSpeed": 100,
+            "talking": [],
+            "index": "749DD8957D6311490E8A78A2E5EA3CA2F5BB"
+        },
+        "order": 0
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}

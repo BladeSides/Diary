@@ -1,0 +1,23 @@
+{
+    "uid": "9DFE7B4470779246CA4BB7684205FDC9683B",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Security Guard",
+        "type": "data_record",
+        "category": "characterExpressions",
+        "isFolder": true,
+        "parentId": "808DBC303E8B3545CB0B67B3BA5B8BDEECDB",
+        "data": {
+            "name": "Security Guard",
+            "isFolder": true
+        },
+        "order": 0
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}

@@ -1,0 +1,23 @@
+{
+    "uid": "C5414DB93DF19049A178304277A64BCEDA2E",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Lily Falls",
+        "type": "data_record",
+        "category": "characterExpressions",
+        "isFolder": true,
+        "parentId": "ROOT",
+        "data": {
+            "name": "Lily Falls",
+            "isFolder": true
+        },
+        "order": 4
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}

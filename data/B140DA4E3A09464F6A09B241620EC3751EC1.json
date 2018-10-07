@@ -1,0 +1,40 @@
+{
+    "uid": "B140DA4E3A09464F6A09B241620EC3751EC1",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Lily Falls",
+        "type": "data_record",
+        "category": "characters",
+        "id": "B140DA4E3A09464F6A09B241620EC3751EC1",
+        "isFolder": false,
+        "parentId": "ROOT",
+        "data": {
+            "name": {
+                "lcId": null,
+                "defaultText": "Lily Falls"
+            },
+            "textColor": {
+                "red": 255,
+                "green": 255,
+                "blue": 255,
+                "alpha": 255
+            },
+            "defaultExpressionId": "7D8F1A2A32FB3548C08AA796355E23EB2A2B",
+            "timeTalkingToVoiceVolume": true,
+            "talkingVolume": 5,
+            "lipSyncSensitivity": 1,
+            "breathIntensity": 1,
+            "idleIntensity": 1,
+            "params": [],
+            "index": "B140DA4E3A09464F6A09B241620EC3751EC1"
+        },
+        "order": 3
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}

@@ -1,0 +1,23 @@
+{
+    "uid": "4C2FA44B5237B74D6079B4F86989AE3AB0C1",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "SuitUnbuttoned",
+        "type": "data_record",
+        "category": "characterExpressions",
+        "isFolder": true,
+        "parentId": "4C6467917B87F44FF9191821E22FF7D93536",
+        "data": {
+            "name": "SuitUnbuttoned",
+            "isFolder": true
+        },
+        "order": 0
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}

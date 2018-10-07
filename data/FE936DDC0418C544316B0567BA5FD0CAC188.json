@@ -1,0 +1,23 @@
+{
+    "uid": "FE936DDC0418C544316B0567BA5FD0CAC188",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Cornelia Angeles",
+        "type": "data_record",
+        "category": "characterExpressions",
+        "isFolder": true,
+        "parentId": "ROOT",
+        "data": {
+            "name": "Cornelia Angeles",
+            "isFolder": true
+        },
+        "order": 2
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}

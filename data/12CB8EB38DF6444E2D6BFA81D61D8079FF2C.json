@@ -1,0 +1,42 @@
+{
+    "uid": "12CB8EB38DF6444E2D6BFA81D61D8079FF2C",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "MrBlue_Normal",
+        "type": "data_record",
+        "category": "characterExpressions",
+        "id": "12CB8EB38DF6444E2D6BFA81D61D8079FF2C",
+        "isFolder": false,
+        "parentId": "8037FC4F13AF14400C483EC8FF973B61CEAD",
+        "data": {
+            "idleTime": {
+                "start": 0,
+                "end": 0
+            },
+            "name": "MrBlue_Normal",
+            "idleSpeed": 100,
+            "idle": [
+                {
+                    "resource": {
+                        "name": "MrBlue_Normal",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": null
+                    }
+                }
+            ],
+            "talkingSpeed": 100,
+            "talking": [],
+            "index": "12CB8EB38DF6444E2D6BFA81D61D8079FF2C"
+        },
+        "order": 0
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}

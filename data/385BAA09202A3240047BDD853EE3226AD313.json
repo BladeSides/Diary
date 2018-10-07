@@ -1,0 +1,42 @@
+{
+    "uid": "385BAA09202A3240047BDD853EE3226AD313",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "AlexSuitUnbuttoned_Normal",
+        "type": "data_record",
+        "category": "characterExpressions",
+        "id": "385BAA09202A3240047BDD853EE3226AD313",
+        "isFolder": false,
+        "parentId": "4C2FA44B5237B74D6079B4F86989AE3AB0C1",
+        "data": {
+            "idleTime": {
+                "start": 0.06,
+                "end": 0
+            },
+            "name": "AlexSuitUnbuttoned_Normal",
+            "idleSpeed": 100,
+            "idle": [
+                {
+                    "resource": {
+                        "name": "AlexSuitUnbuttoned_Normal",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": null
+                    }
+                }
+            ],
+            "talkingSpeed": 100,
+            "talking": [],
+            "index": "385BAA09202A3240047BDD853EE3226AD313"
+        },
+        "order": 0
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}

@@ -1,0 +1,23 @@
+{
+    "uid": "37065ACB6D60A3474C5AE11635BCA2837C4B",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Uniform",
+        "type": "data_record",
+        "category": "characterExpressions",
+        "isFolder": true,
+        "parentId": "C5414DB93DF19049A178304277A64BCEDA2E",
+        "data": {
+            "name": "Uniform",
+            "isFolder": true
+        },
+        "order": 0
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}

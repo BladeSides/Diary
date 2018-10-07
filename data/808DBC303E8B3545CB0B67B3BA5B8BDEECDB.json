@@ -1,0 +1,23 @@
+{
+    "uid": "808DBC303E8B3545CB0B67B3BA5B8BDEECDB",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": ".etc",
+        "type": "data_record",
+        "category": "characterExpressions",
+        "isFolder": true,
+        "parentId": "ROOT",
+        "data": {
+            "name": ".etc",
+            "isFolder": true
+        },
+        "order": 1
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}

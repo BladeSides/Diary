@@ -1,0 +1,40 @@
+{
+    "uid": "80225AD2352986478F7A5247E97DFE040D6A",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Mr. Blue",
+        "type": "data_record",
+        "category": "characters",
+        "id": "80225AD2352986478F7A5247E97DFE040D6A",
+        "isFolder": false,
+        "parentId": "ROOT",
+        "data": {
+            "name": {
+                "lcId": null,
+                "defaultText": "Mr. Blue"
+            },
+            "textColor": {
+                "red": 255,
+                "green": 255,
+                "blue": 255,
+                "alpha": 255
+            },
+            "defaultExpressionId": "12CB8EB38DF6444E2D6BFA81D61D8079FF2C",
+            "timeTalkingToVoiceVolume": true,
+            "talkingVolume": 5,
+            "lipSyncSensitivity": 1,
+            "breathIntensity": 1,
+            "idleIntensity": 1,
+            "params": [],
+            "index": "80225AD2352986478F7A5247E97DFE040D6A"
+        },
+        "order": 4
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}

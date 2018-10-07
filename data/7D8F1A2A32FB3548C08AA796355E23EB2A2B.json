@@ -1,0 +1,42 @@
+{
+    "uid": "7D8F1A2A32FB3548C08AA796355E23EB2A2B",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "LilyUniform_Normal",
+        "type": "data_record",
+        "category": "characterExpressions",
+        "id": "7D8F1A2A32FB3548C08AA796355E23EB2A2B",
+        "isFolder": false,
+        "parentId": "37065ACB6D60A3474C5AE11635BCA2837C4B",
+        "data": {
+            "idleTime": {
+                "start": 0,
+                "end": 0
+            },
+            "name": "LilyUniform_Normal",
+            "idleSpeed": 100,
+            "idle": [
+                {
+                    "resource": {
+                        "name": "LilyUniform_Lily_Normal",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": null
+                    }
+                }
+            ],
+            "talkingSpeed": 100,
+            "talking": [],
+            "index": "7D8F1A2A32FB3548C08AA796355E23EB2A2B"
+        },
+        "order": 0
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}

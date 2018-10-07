@@ -1,0 +1,42 @@
+{
+    "uid": "F1669FFD7CDF64417359E7E67469D90E9E63",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "AlexSuitUnbuttoned_Shocked_Full",
+        "type": "data_record",
+        "category": "characterExpressions",
+        "id": "F1669FFD7CDF64417359E7E67469D90E9E63",
+        "isFolder": false,
+        "parentId": "4C2FA44B5237B74D6079B4F86989AE3AB0C1",
+        "data": {
+            "idleTime": {
+                "start": 0,
+                "end": 0
+            },
+            "name": "AlexSuitUnbuttoned_Shocked_Full",
+            "idleSpeed": 100,
+            "idle": [
+                {
+                    "resource": {
+                        "name": "AlexSuitUnbuttoned_Shocked_Full",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": null
+                    }
+                }
+            ],
+            "talkingSpeed": 100,
+            "talking": [],
+            "index": "F1669FFD7CDF64417359E7E67469D90E9E63"
+        },
+        "order": 3
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}

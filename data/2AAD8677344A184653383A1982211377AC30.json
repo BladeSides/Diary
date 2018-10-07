@@ -1,0 +1,41 @@
+{
+    "uid": "2AAD8677344A184653383A1982211377AC30",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Cornelia Angeles",
+        "type": "data_record",
+        "category": "characters",
+        "id": "2AAD8677344A184653383A1982211377AC30",
+        "isFolder": false,
+        "data": {
+            "name": {
+                "lcId": null,
+                "defaultText": "Cornelia Angeles"
+            },
+            "textColor": {
+                "red": 255,
+                "green": 255,
+                "blue": 255,
+                "alpha": 255
+            },
+            "defaultExpressionId": "5951E888763DF74F1969B5E78E22B3E6ED71",
+            "timeTalkingToVoiceVolume": true,
+            "talkingVolume": 5,
+            "lipSyncSensitivity": 1,
+            "breathIntensity": 1,
+            "idleIntensity": 1,
+            "params": [],
+            "index": "2AAD8677344A184653383A1982211377AC30"
+        },
+        "localizableStrings": {},
+        "order": 1,
+        "parentId": "ROOT"
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}

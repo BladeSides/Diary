@@ -1,0 +1,42 @@
+{
+    "uid": "0B039D1A8902E84CCC59F05170808420E578",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "CorneliaCasual_Blush",
+        "type": "data_record",
+        "category": "characterExpressions",
+        "id": "0B039D1A8902E84CCC59F05170808420E578",
+        "isFolder": false,
+        "parentId": "22C2580986D01748E24921D7C4EC7D2F1EC8",
+        "data": {
+            "idleTime": {
+                "start": 0,
+                "end": 0
+            },
+            "name": "CorneliaCasual_Blush",
+            "idleSpeed": 100,
+            "idle": [
+                {
+                    "resource": {
+                        "name": "CorneliaCasual_Blush",
+                        "hue": 0,
+                        "opacity": 255,
+                        "blending": 0,
+                        "tone": null
+                    }
+                }
+            ],
+            "talkingSpeed": 100,
+            "talking": [],
+            "index": "0B039D1A8902E84CCC59F05170808420E578"
+        },
+        "order": 0
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}

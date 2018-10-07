@@ -1,0 +1,1285 @@
+[
+    {
+        "path": "Graphics",
+        "resources": []
+    },
+    {
+        "path": "Graphics/Characters",
+        "resources": [
+            {
+                "type": "folder",
+                "name": "8DD4617C5485D94A5D6AD5F6679FBFF43026",
+                "displayName": ".etc",
+                "resources": [
+                    {
+                        "name": "Guard",
+                        "type": "graphic",
+                        "parent": "8DD4617C5485D94A5D6AD5F6679FBFF43026"
+                    }
+                ],
+                "isa": null,
+                "_UID": 4531103
+            },
+            {
+                "type": "folder",
+                "name": "238FFF9620BAC54F4D2803F529D50A948059",
+                "displayName": "Alex Blue",
+                "resources": [
+                    {
+                        "type": "folder",
+                        "name": "EC467F164B388843C37A35E2AB3F8D65CA2E",
+                        "displayName": "SuitUnbuttoned",
+                        "resources": [
+                            {
+                                "name": "AlexSuitUnbuttoned_Bruised",
+                                "type": "graphic",
+                                "parent": "EC467F164B388843C37A35E2AB3F8D65CA2E",
+                                "isa": null,
+                                "_UID": 1972552
+                            },
+                            {
+                                "name": "AlexSuitUnbuttoned_Normal",
+                                "type": "graphic",
+                                "parent": "EC467F164B388843C37A35E2AB3F8D65CA2E",
+                                "isa": null,
+                                "_UID": 1847794
+                            },
+                            {
+                                "name": "AlexSuitUnbuttoned_Shocked",
+                                "type": "graphic",
+                                "parent": "EC467F164B388843C37A35E2AB3F8D65CA2E",
+                                "isa": null,
+                                "_UID": 2031549
+                            },
+                            {
+                                "name": "AlexSuitUnbuttoned_Shocked_Full",
+                                "type": "graphic",
+                                "parent": "EC467F164B388843C37A35E2AB3F8D65CA2E",
+                                "isa": null,
+                                "_UID": 2162345
+                            }
+                        ],
+                        "parent": "238FFF9620BAC54F4D2803F529D50A948059",
+                        "isa": null,
+                        "_UID": 339830
+                    }
+                ],
+                "isa": null,
+                "_UID": 234766
+            },
+            {
+                "type": "folder",
+                "name": "B0E0A5FB6DB1734F3D8B8AD7AD8BC8CE7BAA",
+                "displayName": "Cornelia Angeles",
+                "resources": [
+                    {
+                        "type": "folder",
+                        "name": "26407B6575B2154F288A0E4798B98112BED1",
+                        "displayName": "Casual",
+                        "resources": [
+                            {
+                                "name": "CorneliaCasual_Blush",
+                                "type": "graphic",
+                                "parent": "26407B6575B2154F288A0E4798B98112BED1",
+                                "isa": null,
+                                "_UID": 2949513
+                            },
+                            {
+                                "name": "CorneliaCasual_Normal",
+                                "type": "graphic",
+                                "parent": "26407B6575B2154F288A0E4798B98112BED1",
+                                "isa": null,
+                                "_UID": 3147248
+                            }
+                        ],
+                        "parent": "B0E0A5FB6DB1734F3D8B8AD7AD8BC8CE7BAA",
+                        "isa": null,
+                        "_UID": 2852953
+                    },
+                    {
+                        "type": "folder",
+                        "name": "610FE7214BADD54D8F191078F37D39D62FD2",
+                        "displayName": "Uniform",
+                        "resources": [
+                            {
+                                "name": "CorneliaUniform_CloseUp",
+                                "type": "graphic",
+                                "parent": "610FE7214BADD54D8F191078F37D39D62FD2",
+                                "isa": null,
+                                "_UID": 3442453
+                            },
+                            {
+                                "name": "CorneliaUniform_Normal",
+                                "type": "graphic",
+                                "parent": "610FE7214BADD54D8F191078F37D39D62FD2",
+                                "isa": null,
+                                "_UID": 3382686
+                            }
+                        ],
+                        "parent": "B0E0A5FB6DB1734F3D8B8AD7AD8BC8CE7BAA",
+                        "isa": null,
+                        "_UID": 3190867
+                    }
+                ],
+                "parent": null,
+                "isa": null,
+                "_UID": 2766650
+            },
+            {
+                "type": "folder",
+                "name": "D141BD6547616448985945519EBB746CA76E",
+                "displayName": "Lily Falls",
+                "resources": [
+                    {
+                        "type": "folder",
+                        "name": "3033AA331BBFF74A6E4B9038AEC3F2661412",
+                        "displayName": "Uniform",
+                        "resources": [
+                            {
+                                "name": "LilyUniform_Normal",
+                                "type": "graphic",
+                                "parent": "3033AA331BBFF74A6E4B9038AEC3F2661412",
+                                "isa": null,
+                                "_UID": 4479503
+                            }
+                        ],
+                        "parent": "D141BD6547616448985945519EBB746CA76E",
+                        "isa": null,
+                        "_UID": 4314990
+                    }
+                ],
+                "isa": null,
+                "_UID": 3516376
+            },
+            {
+                "type": "folder",
+                "name": "0E01AF6518DBA242FF9ACE78EADB185BED4D",
+                "displayName": "Mr. Blue",
+                "resources": [
+                    {
+                        "type": "folder",
+                        "name": "18EA494444A8E74D4E4867258B05DFA3C7A6",
+                        "displayName": "Suit",
+                        "resources": [
+                            {
+                                "name": "MrBlue_Normal",
+                                "type": "graphic",
+                                "parent": "18EA494444A8E74D4E4867258B05DFA3C7A6",
+                                "isa": null,
+                                "_UID": 2364928
+                            }
+                        ],
+                        "parent": "0E01AF6518DBA242FF9ACE78EADB185BED4D",
+                        "isa": null,
+                        "_UID": 2263854
+                    }
+                ],
+                "parent": null,
+                "isa": null,
+                "_UID": 257815
+            }
+        ]
+    },
+    {
+        "path": "Graphics/Backgrounds",
+        "resources": [
+            {
+                "type": "folder",
+                "name": "228324BA89E8F946242B3A047A45115EBA25",
+                "displayName": "City_Exterior",
+                "resources": [
+                    {
+                        "name": "Basement_parking",
+                        "type": "graphic",
+                        "parent": "228324BA89E8F946242B3A047A45115EBA25",
+                        "isa": null,
+                        "_UID": 3816652
+                    },
+                    {
+                        "name": "City_Map",
+                        "type": "graphic",
+                        "parent": "228324BA89E8F946242B3A047A45115EBA25",
+                        "isa": null,
+                        "_UID": 3816660
+                    },
+                    {
+                        "name": "Street_Day",
+                        "type": "graphic",
+                        "parent": "228324BA89E8F946242B3A047A45115EBA25",
+                        "isa": null,
+                        "_UID": 3816674
+                    },
+                    {
+                        "name": "Street_Night",
+                        "type": "graphic",
+                        "parent": "228324BA89E8F946242B3A047A45115EBA25",
+                        "isa": null,
+                        "_UID": 3816676
+                    }
+                ],
+                "parent": null,
+                "isa": null,
+                "_UID": 4269888
+            },
+            {
+                "type": "folder",
+                "name": "B58DE6313B77174DAA7953B5BBDF6C681A81",
+                "displayName": "City_Interior",
+                "resources": [
+                    {
+                        "type": "folder",
+                        "name": "B2A023F632890845AA3A3A33BE6D1C58DDD3",
+                        "displayName": "Shops",
+                        "resources": [
+                            {
+                                "name": "Cafe",
+                                "type": "graphic",
+                                "parent": "B2A023F632890845AA3A3A33BE6D1C58DDD3",
+                                "isa": null,
+                                "_UID": 3816656
+                            },
+                            {
+                                "name": "Casino",
+                                "type": "graphic",
+                                "parent": "B2A023F632890845AA3A3A33BE6D1C58DDD3",
+                                "isa": null,
+                                "_UID": 3816658
+                            },
+                            {
+                                "name": "ClothingStore",
+                                "type": "graphic",
+                                "parent": "B2A023F632890845AA3A3A33BE6D1C58DDD3",
+                                "isa": null,
+                                "_UID": 3816662
+                            },
+                            {
+                                "name": "Mall",
+                                "type": "graphic",
+                                "parent": "B2A023F632890845AA3A3A33BE6D1C58DDD3",
+                                "isa": null,
+                                "_UID": 3816666
+                            },
+                            {
+                                "name": "Mall2",
+                                "type": "graphic",
+                                "parent": "B2A023F632890845AA3A3A33BE6D1C58DDD3",
+                                "isa": null,
+                                "_UID": 3816668
+                            },
+                            {
+                                "name": "Mart",
+                                "type": "graphic",
+                                "parent": "B2A023F632890845AA3A3A33BE6D1C58DDD3",
+                                "isa": null,
+                                "_UID": 3816670
+                            }
+                        ],
+                        "parent": "B58DE6313B77174DAA7953B5BBDF6C681A81",
+                        "isa": null,
+                        "_UID": 3912144
+                    },
+                    {
+                        "name": "Bedroom_Night_FEMALE",
+                        "type": "graphic",
+                        "parent": "B58DE6313B77174DAA7953B5BBDF6C681A81",
+                        "isa": null,
+                        "_UID": 3816654
+                    },
+                    {
+                        "name": "Library",
+                        "type": "graphic",
+                        "parent": "B58DE6313B77174DAA7953B5BBDF6C681A81",
+                        "isa": null,
+                        "_UID": 3816664
+                    },
+                    {
+                        "name": "Office",
+                        "type": "graphic",
+                        "parent": "B58DE6313B77174DAA7953B5BBDF6C681A81",
+                        "isa": null,
+                        "_UID": 3816672
+                    }
+                ],
+                "isa": null,
+                "_UID": 3881883
+            }
+        ]
+    },
+    {
+        "path": "Graphics/Pictures",
+        "resources": [
+            {
+                "type": "folder",
+                "name": "85EF76BFKEA74A4DAFS971BE829A634E4220",
+                "displayName": "CG Gallery",
+                "resources": [
+                    {
+                        "name": "Metis_CG",
+                        "type": "graphic",
+                        "parent": "85EF76BFKEA74A4DAFS971BE829A634E4220",
+                        "isa": null,
+                        "_UID": 152891
+                    },
+                    {
+                        "name": "Metis_CG_Thumb",
+                        "type": "graphic",
+                        "parent": "85EF76BFKEA74A4DAFS971BE829A634E4220",
+                        "isa": null,
+                        "_UID": 152893
+                    }
+                ],
+                "isa": null,
+                "_UID": 130585
+            },
+            {
+                "type": "folder",
+                "name": "8F6C459A4F46F141D28AF98558F0E7A37946",
+                "displayName": "Character Sheets",
+                "resources": [
+                    {
+                        "name": "cornelia",
+                        "type": "graphic",
+                        "parent": "8F6C459A4F46F141D28AF98558F0E7A37946"
+                    },
+                    {
+                        "name": "Dahliafalls",
+                        "type": "graphic",
+                        "parent": "8F6C459A4F46F141D28AF98558F0E7A37946"
+                    },
+                    {
+                        "name": "diana_blue",
+                        "type": "graphic",
+                        "parent": "8F6C459A4F46F141D28AF98558F0E7A37946"
+                    },
+                    {
+                        "name": "lily_falls",
+                        "type": "graphic",
+                        "parent": "8F6C459A4F46F141D28AF98558F0E7A37946"
+                    },
+                    {
+                        "name": "Natalia_Creed",
+                        "type": "graphic",
+                        "parent": "8F6C459A4F46F141D28AF98558F0E7A37946"
+                    },
+                    {
+                        "name": "alexblue",
+                        "type": "graphic",
+                        "parent": "8F6C459A4F46F141D28AF98558F0E7A37946"
+                    }
+                ],
+                "isa": null,
+                "_UID": 6356800
+            },
+            {
+                "type": "folder",
+                "name": "357B89457FFD83407B6AA2D3DEA2997837AA",
+                "displayName": "Items",
+                "resources": [
+                    {
+                        "name": "00_key",
+                        "type": "graphic",
+                        "parent": "357B89457FFD83407B6AA2D3DEA2997837AA"
+                    },
+                    {
+                        "name": "01_phone",
+                        "type": "graphic",
+                        "parent": "357B89457FFD83407B6AA2D3DEA2997837AA"
+                    }
+                ],
+                "isa": null,
+                "_UID": 181004
+            },
+            {
+                "type": "folder",
+                "name": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                "displayName": "UI",
+                "resources": [
+                    {
+                        "type": "folder",
+                        "name": "19ED82B893A7F34ABF2BFF6544310CE53F07",
+                        "displayName": "Cursor",
+                        "resources": [
+                            {
+                                "name": "cursor3",
+                                "type": "graphic",
+                                "parent": "19ED82B893A7F34ABF2BFF6544310CE53F07"
+                            },
+                            {
+                                "name": "cursor1",
+                                "type": "graphic",
+                                "parent": "19ED82B893A7F34ABF2BFF6544310CE53F07"
+                            },
+                            {
+                                "name": "cursor2",
+                                "type": "graphic",
+                                "parent": "19ED82B893A7F34ABF2BFF6544310CE53F07"
+                            },
+                            {
+                                "name": "cursor4",
+                                "type": "graphic",
+                                "parent": "19ED82B893A7F34ABF2BFF6544310CE53F07"
+                            }
+                        ],
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 206770
+                    },
+                    {
+                        "type": "folder",
+                        "name": "F62E7167KEA21A419DSB8A3E830D599F89CB",
+                        "displayName": "Mobile",
+                        "resources": [
+                            {
+                                "name": "m-arrow",
+                                "type": "graphic",
+                                "parent": "F62E7167KEA21A419DSB8A3E830D599F89CB",
+                                "isa": null
+                            },
+                            {
+                                "name": "m-arrow-disabled",
+                                "type": "graphic",
+                                "parent": "F62E7167KEA21A419DSB8A3E830D599F89CB",
+                                "isa": null
+                            },
+                            {
+                                "name": "m-diamond-large-off",
+                                "type": "graphic",
+                                "parent": "F62E7167KEA21A419DSB8A3E830D599F89CB",
+                                "isa": null
+                            },
+                            {
+                                "name": "m-diamond-large-on",
+                                "type": "graphic",
+                                "parent": "F62E7167KEA21A419DSB8A3E830D599F89CB",
+                                "isa": null
+                            },
+                            {
+                                "name": "m-diamond-small-off",
+                                "type": "graphic",
+                                "parent": "F62E7167KEA21A419DSB8A3E830D599F89CB",
+                                "isa": null
+                            },
+                            {
+                                "name": "m-diamond-small-on",
+                                "type": "graphic",
+                                "parent": "F62E7167KEA21A419DSB8A3E830D599F89CB",
+                                "isa": null
+                            },
+                            {
+                                "name": "msg-diamond-small-off",
+                                "type": "graphic",
+                                "parent": "F62E7167KEA21A419DSB8A3E830D599F89CB",
+                                "isa": null
+                            },
+                            {
+                                "name": "msg-diamond-small-on",
+                                "type": "graphic",
+                                "parent": "F62E7167KEA21A419DSB8A3E830D599F89CB",
+                                "isa": null
+                            }
+                        ],
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130918
+                    },
+                    {
+                        "name": "bg-generic",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130920
+                    },
+                    {
+                        "name": "diamond-large-off",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130922
+                    },
+                    {
+                        "name": "diamond-large-on",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130924
+                    },
+                    {
+                        "name": "diamond-small-off",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130926
+                    },
+                    {
+                        "name": "diamond-small-on",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130928
+                    },
+                    {
+                        "name": "dropshadow",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130930
+                    },
+                    {
+                        "name": "entrybox",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130932
+                    },
+                    {
+                        "name": "locked",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130934
+                    },
+                    {
+                        "name": "message_caret",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 204495
+                    },
+                    {
+                        "name": "scrollbar",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130936
+                    },
+                    {
+                        "name": "selection",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130938
+                    },
+                    {
+                        "name": "selection-inactive",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130940
+                    },
+                    {
+                        "name": "skin-frame",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130942
+                    },
+                    {
+                        "name": "skin-stretch",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130944
+                    },
+                    {
+                        "name": "skin-tile",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130946
+                    },
+                    {
+                        "name": "thumbnailshadow",
+                        "type": "graphic",
+                        "parent": "B3B4F9F1K8EDBA4829SAC53E22E4E658045E",
+                        "isa": null,
+                        "_UID": 130948
+                    }
+                ],
+                "isa": null,
+                "_UID": 130587
+            },
+            {
+                "name": "1_Opening_-_Time_to_Love",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 5220364
+            },
+            {
+                "name": "keemrap_logo",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 6282264
+            },
+            {
+                "name": "web-start-screen",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 138891
+            }
+        ]
+    },
+    {
+        "path": "Graphics/Icons",
+        "resources": [
+            {
+                "name": "Germany",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 543056
+            },
+            {
+                "name": "Japan",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 543058
+            },
+            {
+                "name": "United-Kingdom",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 543060
+            }
+        ]
+    },
+    {
+        "path": "Graphics/Masks",
+        "resources": [
+            {
+                "name": "Blinds_Hor",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 127354
+            },
+            {
+                "name": "Blinds_V",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 127356
+            },
+            {
+                "name": "Circle",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 127358
+            },
+            {
+                "name": "Circle_Square",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 127360
+            },
+            {
+                "name": "Circle_Square_Ver2",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 127362
+            },
+            {
+                "name": "Circle_Ver2",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 127364
+            },
+            {
+                "name": "Dissolve",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 127366
+            },
+            {
+                "name": "Dissolve_Ver2",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 127368
+            },
+            {
+                "name": "Heart",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 127370
+            },
+            {
+                "name": "Heart_Square",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 127372
+            },
+            {
+                "name": "Heart_Ver2",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 127374
+            },
+            {
+                "name": "HeartB",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 127376
+            },
+            {
+                "name": "HeartB_Ver2",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 127378
+            },
+            {
+                "name": "Rect",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 127380
+            },
+            {
+                "name": "Rect_Ver2",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 127382
+            },
+            {
+                "name": "Splotches",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 127384
+            },
+            {
+                "name": "Splotches_Ver2",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 127386
+            },
+            {
+                "name": "Star",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 127388
+            },
+            {
+                "name": "Star_Square",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 127390
+            },
+            {
+                "name": "Star_Square_Ver2",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 127392
+            },
+            {
+                "name": "Star_Ver2",
+                "type": "graphic",
+                "isa": null,
+                "_UID": 127394
+            }
+        ]
+    },
+    {
+        "path": "Graphics/Fonts",
+        "resources": []
+    },
+    {
+        "path": "Audio/Music",
+        "resources": [
+            {
+                "name": "2_Main Menu",
+                "type": "audio",
+                "isa": null,
+                "_UID": 3763310
+            },
+            {
+                "name": "3_Route Selection",
+                "type": "audio",
+                "isa": null,
+                "_UID": 3763312
+            },
+            {
+                "name": "4_Route Selected",
+                "type": "audio",
+                "isa": null,
+                "_UID": 3763314
+            },
+            {
+                "name": "5_Overworld",
+                "type": "audio",
+                "isa": null,
+                "_UID": 3763316
+            },
+            {
+                "name": "6_Festival Theme 1",
+                "type": "audio",
+                "isa": null,
+                "_UID": 3763318
+            },
+            {
+                "name": "7_Festival Theme 2",
+                "type": "audio",
+                "isa": null,
+                "_UID": 3763320
+            },
+            {
+                "name": "8_Festival Theme 3",
+                "type": "audio",
+                "isa": null,
+                "_UID": 3763322
+            },
+            {
+                "name": "9_Festival Game",
+                "type": "audio",
+                "isa": null,
+                "_UID": 3763324
+            },
+            {
+                "name": "10_Lily Theme",
+                "type": "audio",
+                "isa": null,
+                "_UID": 3763326
+            },
+            {
+                "name": "11_Cornelia Theme",
+                "type": "audio",
+                "isa": null,
+                "_UID": 3763328
+            },
+            {
+                "name": "12_Natalia Theme",
+                "type": "audio",
+                "isa": null,
+                "_UID": 3763330
+            },
+            {
+                "name": "13_Daniel Theme",
+                "type": "audio",
+                "isa": null,
+                "_UID": 3763332
+            },
+            {
+                "name": "14_Henry Theme",
+                "type": "audio",
+                "isa": null,
+                "_UID": 3763334
+            },
+            {
+                "name": "15_Makoto Theme",
+                "type": "audio",
+                "isa": null,
+                "_UID": 3763336
+            },
+            {
+                "name": "16_Dad Theme",
+                "type": "audio",
+                "isa": null,
+                "_UID": 3763338
+            },
+            {
+                "name": "17_Confession Day",
+                "type": "audio",
+                "isa": null,
+                "_UID": 3763340
+            },
+            {
+                "name": "18_Bad End",
+                "type": "audio",
+                "isa": null,
+                "_UID": 3763342
+            },
+            {
+                "name": "19_Good End",
+                "type": "audio",
+                "isa": null,
+                "_UID": 3763344
+            },
+            {
+                "name": "keemrap anime intro ver 1",
+                "type": "audio",
+                "isa": null,
+                "_UID": 3763346
+            },
+            {
+                "name": "music box cover keemrap",
+                "type": "audio",
+                "isa": null,
+                "_UID": 3763348
+            },
+            {
+                "name": "Secret Love",
+                "type": "audio",
+                "isa": null,
+                "_UID": 3763350
+            },
+            {
+                "name": "webtoon keemrap ver 1",
+                "type": "audio",
+                "isa": null,
+                "_UID": 3763352
+            },
+            {
+                "name": "1_Opening - Time to Love",
+                "type": "audio",
+                "isa": null,
+                "_UID": 3763354
+            }
+        ]
+    },
+    {
+        "path": "Audio/Sounds",
+        "resources": [
+            {
+                "type": "folder",
+                "name": "EBDB475A7FA6084E9F692D17174FF0158E31",
+                "displayName": "Music Effects",
+                "resources": [
+                    {
+                        "name": "ME_-_school_chimes_01",
+                        "type": "audio",
+                        "parent": "EBDB475A7FA6084E9F692D17174FF0158E31"
+                    },
+                    {
+                        "name": "ME_-_school_chimes_02",
+                        "type": "audio",
+                        "parent": "EBDB475A7FA6084E9F692D17174FF0158E31"
+                    },
+                    {
+                        "name": "ME_Game_Over",
+                        "type": "audio",
+                        "parent": "EBDB475A7FA6084E9F692D17174FF0158E31"
+                    },
+                    {
+                        "name": "ME_Level_Up_Fail",
+                        "type": "audio",
+                        "parent": "EBDB475A7FA6084E9F692D17174FF0158E31"
+                    },
+                    {
+                        "name": "ME_Level_Up_Success",
+                        "type": "audio",
+                        "parent": "EBDB475A7FA6084E9F692D17174FF0158E31"
+                    },
+                    {
+                        "name": "ME_Sleep_01",
+                        "type": "audio",
+                        "parent": "EBDB475A7FA6084E9F692D17174FF0158E31"
+                    },
+                    {
+                        "name": "ME_Sleep_02",
+                        "type": "audio",
+                        "parent": "EBDB475A7FA6084E9F692D17174FF0158E31"
+                    }
+                ],
+                "isa": null,
+                "_UID": 291116
+            },
+            {
+                "type": "folder",
+                "name": "596171293B19A645921AD5A2DF965604D3E1",
+                "displayName": "Sound Effects",
+                "resources": [
+                    {
+                        "name": "ambulance_siren",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "basketball_bounce_single",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "basketball_dribble",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "book_close",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "book_page_turn",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "cellphone_ring",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "cellphone_text_message_received",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "chair_squeaky",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "cicadas",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "clock_chime",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "clock_tick_tock_01",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "clock_tick_tock_02",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "cooking_boiling_water",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "cooking_frying_sizzle",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "cooking_oven_burner",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "door_close",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "door_open",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "door_open_creaky",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "door_sliding",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "fire_alarm_01",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "fire_alarm_02",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "footsteps_creaky_stairs",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "footsteps_fast",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "footsteps_normal",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "footsteps_slow",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "glass_break_01",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "glass_break_02",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "school_bell",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "school_chalk_on_chalkboard",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "thud_01",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "thud_02",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "thud_03",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "writing_inkpen",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "writing_pencil_01",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "writing_pencil_02",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    },
+                    {
+                        "name": "writing_pencil_eraser",
+                        "type": "audio",
+                        "parent": "596171293B19A645921AD5A2DF965604D3E1"
+                    }
+                ],
+                "isa": null,
+                "_UID": 292980
+            },
+            {
+                "type": "folder",
+                "name": "ABCD5AC67A276749B11AC05560C3D6482B3D",
+                "displayName": "System",
+                "resources": [
+                    {
+                        "name": "choice_cancel_02",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "choice_confirm_01",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "choice_confirm_02",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "choice_confirm_03",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "cursor",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "exit_01",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "exit_02",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "invalid_buzz_01",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "invalid_buzz_02",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "invalid_buzz_03",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "load_01",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "load_02",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "save_01",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "save_02",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    },
+                    {
+                        "name": "choice_cancel_01",
+                        "type": "audio",
+                        "parent": "ABCD5AC67A276749B11AC05560C3D6482B3D"
+                    }
+                ],
+                "isa": null,
+                "_UID": 337064
+            }
+        ]
+    },
+    {
+        "path": "Live2D",
+        "resources": []
+    },
+    {
+        "path": "Movies",
+        "resources": [
+            {
+                "name": "lrain.webmhd",
+                "type": "video"
+            },
+            {
+                "name": "fog.webmhd",
+                "type": "video"
+            },
+            {
+                "name": "rays.webmhd",
+                "type": "video"
+            },
+            {
+                "name": "rain2.webmhd",
+                "type": "video"
+            },
+            {
+                "name": "snow.webmhd",
+                "type": "video"
+            },
+            {
+                "name": "rain1-white.webmhd",
+                "type": "video"
+            },
+            {
+                "name": "rain1.webmhd",
+                "type": "video"
+            },
+            {
+                "name": "blizzard.webmhd",
+                "type": "video"
+            }
+        ]
+    }
+]

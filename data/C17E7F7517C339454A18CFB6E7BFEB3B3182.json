@@ -1,0 +1,40 @@
+{
+    "uid": "C17E7F7517C339454A18CFB6E7BFEB3B3182",
+    "isLoaded": true,
+    "lastModificationTime": null,
+    "items": {
+        "name": "Alex Blue",
+        "type": "data_record",
+        "category": "characters",
+        "id": "C17E7F7517C339454A18CFB6E7BFEB3B3182",
+        "isFolder": false,
+        "parentId": "ROOT",
+        "data": {
+            "name": {
+                "lcId": null,
+                "defaultText": "Alex Blue"
+            },
+            "textColor": {
+                "red": 255,
+                "green": 255,
+                "blue": 255,
+                "alpha": 255
+            },
+            "defaultExpressionId": "385BAA09202A3240047BDD853EE3226AD313",
+            "timeTalkingToVoiceVolume": true,
+            "talkingVolume": 5,
+            "lipSyncSensitivity": 1,
+            "breathIntensity": 1,
+            "idleIntensity": 1,
+            "params": [],
+            "index": "C17E7F7517C339454A18CFB6E7BFEB3B3182"
+        },
+        "order": 2
+    },
+    "summary": [
+        "name",
+        "type",
+        "order"
+    ],
+    "externalItems": []
+}
